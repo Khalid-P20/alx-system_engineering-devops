@@ -1,2 +1,2 @@
-#!brin/bash
+#!/brin/bash
 chmod u+x hello
